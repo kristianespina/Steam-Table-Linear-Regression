@@ -12,6 +12,15 @@ or
 py steam.py
 ```
 
+## How to train models? ##
+```zsh
+python train.py
+```
+or
+```zsh
+py train.py
+```
+
 ## Requirements ##
 Python >= 3.5.0
 
