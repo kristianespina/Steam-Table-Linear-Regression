@@ -1,7 +1,9 @@
 # Steam-Table-Linear-Regression
 My simple linear regression project for saturated Steam/H2O using python
+## Sample Output ##
+![Sample Output](https://github.com/kristianespina/Steam-Table-Linear-Regression/blob/master/sample-output.png?raw=true)
 
-### How to Use? ###
+## How to Use? ##
 ```zsh
 python steam.py
 ```
@@ -10,7 +12,7 @@ or
 py steam.py
 ```
 
-### Requirements ###
+## Requirements ##
 Python >= 3.5.0
 
 Pandas
