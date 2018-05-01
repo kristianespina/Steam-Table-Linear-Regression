@@ -18,3 +18,6 @@ Python >= 3.5.0
 Pandas
 
 Sklearn
+
+## Credits ##
+Steam Table Data Source: NIST Chemistry Web Book https://webbook.nist.gov/chemistry/fluid/
